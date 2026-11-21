@@ -1,5 +1,7 @@
 # Roameo: agents plan the trip, you make the call
 
+**[▶ Try the live demo](https://roameo-l13h.onrender.com/)** (free hosting: the first load can take ~30 s while the server wakes up)
+
 Roameo is a multi-agent travel planner for short, budget-limited trips such as a student's weekend in New York.
 You describe the trip in one sentence and get an hour-by-hour plan with each day's route on a map,
 and a visit guide for every stop (what's on, what not to miss, how to spend your time there). A team of agents asks about anything missing, researches flights,
